@@ -1,0 +1,4 @@
+git status <- verificar o que falta o rastrear
+ git add leiame.txt adicionar o arquivo
+ git commit -m "Meu primeiro commit"
+$ git remote add origin https://github.com/Alexson-Felipe/VersionaSenai.git <- pra puxar do git
