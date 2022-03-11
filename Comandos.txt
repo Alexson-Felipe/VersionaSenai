@@ -2,3 +2,9 @@ git status <- verificar o que falta o rastrear
  git add leiame.txt adicionar o arquivo
  git commit -m "Meu primeiro commit"
 $ git remote add origin https://github.com/Alexson-Felipe/VersionaSenai.git <- pra puxar do git
+
+git commit -a -m "exemplo texto" <- isso serve para adicionar commitar o mesmo tempo.
+ls -a <- para mostrar arquivos ocultos na pasta
+git add . <- adicionar tudo que tem na pasta
+git add .nomedapasta <- para adicionar a pasta
+git clone urldoprjeto <- para clonar
